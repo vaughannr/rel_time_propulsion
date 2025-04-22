@@ -1,0 +1,3 @@
+*.o
+propulsion_server
+__pycache__
