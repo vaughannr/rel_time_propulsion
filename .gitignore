@@ -1,3 +1,4 @@
 *.o
 propulsion_server
+propulsion_server_zmq
 __pycache__
